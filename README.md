@@ -4,7 +4,7 @@ Track map for Assetto Corsa
 
 # Screenshot
 
-![screenshot](https://user-images.githubusercontent.com/24981419/159190879-bfd6728c-1197-4619-ae2b-91aabac6aa7b.png)
+![screenshot](https://user-images.githubusercontent.com/24981419/159471839-78406de2-0679-4ea6-91c5-441e5324740b.png)
 
 # Supported tracks
 
